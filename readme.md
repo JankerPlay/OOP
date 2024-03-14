@@ -83,7 +83,8 @@ getTranslatedText(key) - получение перевода текста по �
 ## 5 Диаграмма классов
 <img width="589" alt="image" src="https://github.com/JankerPlay/OOP/assets/57415393/6a757dec-25aa-4b89-be0d-391d6e28f983">;
 ## 6 Архитектура работы программы
-<img width="650" alt="Screenshot 2024-03-14 214822" src="https://github.com/JankerPlay/OOP/assets/57415393/4355d8ac-ce84-4019-838a-c78eba487c0e">;
+<img width="623" alt="Screenshot 2024-03-14 215125" src="https://github.com/JankerPlay/OOP/assets/57415393/7bd93f37-5ed6-4e73-a4e0-b0e16b2f4031">;
+
 
 
 
